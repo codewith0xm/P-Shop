@@ -1,0 +1,53 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "price": 5.99,
+      "image": "burger.png"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "price": 8.49,
+      "image": "pizza.png"
+    },
+    {
+      "id": 3,
+      "name": "Pasta",
+      "price": 7.29,
+      "image": "pasta.png"
+    },
+    {
+      "id": 4,
+      "name": "Salad",
+      "price": 4.99,
+      "image": "salad.png"
+    },
+    {
+      "id": 5,
+      "name": "Fries",
+      "price": 2.99,
+      "image": "fries.png"
+    },
+    {
+      "id": 6,
+      "name": "Sandwich",
+      "price": 6.49,
+      "image": "sandwich.png"
+    },
+    {
+      "id": 7,
+      "name": "Soda",
+      "price": 1.49,
+      "image": "soda.png"
+    },
+    {
+      "id": 8,
+      "name": "Coffee",
+      "price": 2.49,
+      "image": "coffee.png"
+    }
+  ],
+  "minimum_order_value": 12.5
+}
